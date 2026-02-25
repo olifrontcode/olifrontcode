@@ -1,3 +1,4 @@
+## 👀 Helloooo, I'm Oli,
 <div align="center">
   <img src="./md.gif" />
 </div>
@@ -14,11 +15,9 @@
 
 <br>
 
-If you enjoy my coding and videos, 
-
-if you smile and have a positive feelings, 
-
-I did my job.
+| Goal | Goal | Ikigai |
+| --- | --- | --- |
+| If you enjoy my coding and videos, |  if you smile and have a positive feelings, | I did my job. |
 
 
 
