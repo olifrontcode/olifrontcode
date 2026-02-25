@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="./md.gif" />
+</div>
 
-<!--
-**olifrontcode/olifrontcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🍃 Frontend Artist
+- 🎨 Pixel Art & Comic Book Lover
+- 🌟 Sharing my journey and projects on [Youtube channel](https://www.youtube.com/@AlexithymicOli).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,vite)](https://skillicons.dev) 
+
+<br>
+
+If you enjoy my coding and videos, 
+
+if you smile and have a positive feelings, 
+
+I did my job.
+
+
+
